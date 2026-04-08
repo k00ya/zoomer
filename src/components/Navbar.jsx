@@ -9,10 +9,6 @@ function Navbar() {
           <a href="#" className="hover:text-black transition">About</a>
           <a href="#" className="hover:text-black transition">Contact</a>
         </div>
-
-        <button className="bg-black text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition">
-          Login
-        </button>
       </div>
     </nav>
   )
